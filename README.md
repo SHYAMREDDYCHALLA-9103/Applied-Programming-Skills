@@ -4,6 +4,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -11,6 +12,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -18,6 +20,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -66,4 +69,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
