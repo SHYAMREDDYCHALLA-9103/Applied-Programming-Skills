@@ -29,6 +29,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/SHYAMREDDYCHALLA-9103/Applied-Programming-Skills/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
